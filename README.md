@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rodneynigel
 - 👀 I’m interested in making my daily computer administration a breeze
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anyone whom are willing to teach me better utilization of network tools
+- 💞️ I’m looking to collaborate with anyone whom are willing to teach me better utilization of network tools
 - 📫 How to reach me via e-mail at rodneynigel@gmail.com
 
 <!---
